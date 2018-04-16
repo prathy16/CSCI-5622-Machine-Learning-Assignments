@@ -4,3 +4,4 @@ Programming assignmnets for machine learning course, all scripts are written in 
 2. Logistic Regression
 3. Feature Engineering
 4. PAC learnability and VC dimension
+5. Boosting
