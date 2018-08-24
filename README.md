@@ -5,3 +5,4 @@ Programming assignmnets for machine learning course, all scripts are written in 
 3. Feature Engineering
 4. PAC learnability and VC dimension
 5. Boosting
+6. Neural Networks
